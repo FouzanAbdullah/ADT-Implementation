@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<drjava version="drjava-20120818-r5686">
+  <project autorefresh="false" manifest="" root="" work="">
+    <createjar file="" flags="8"/>
+    <source>
+      <file active="true" name="everybodyintothepool/ConcretePoolQueue.java" package="everybodyintothepool" timestamp="28-May-2021 22:33:05">
+        <select from="1025" to="1025"/>
+        <scroll column="375" row="0"/>
+      </file>
+      <file name="testing/MacguffinGames.java" package="testing" timestamp="28-May-2021 16:50:10">
+        <select from="1025" to="1025"/>
+        <scroll column="375" row="0"/>
+      </file>
+      <file name="everybodyintothepool/InsufficientElementsException.java" package="everybodyintothepool" timestamp="20-May-2021 20:54:48">
+        <select from="1025" to="1025"/>
+        <scroll column="375" row="0"/>
+      </file>
+      <file name="everybodyintothepool/PoolQueue.java" package="everybodyintothepool" timestamp="28-May-2021 08:37:22">
+        <select from="1025" to="1025"/>
+        <scroll column="375" row="0"/>
+      </file>
+    </source>
+    <included/>
+    <excluded/>
+    <collapsed/>
+    <classpath/>
+    <breakpoints/>
+    <watches/>
+    <bookmarks/>
+    <preferences/>
+  </project>
+</drjava>
