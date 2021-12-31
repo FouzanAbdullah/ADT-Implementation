@@ -1,0 +1,3 @@
+ConcretePoolQueue, PoolQueue, and InsuffiecientElementsException go into a folder called everybodyintothepool.
+MacguffinGames goes into a folder called testing.
+The drjava project file will be in an outer folder in this case called Assign_1, and the other two folders will be beside the drjava project file inside Assign_1.
